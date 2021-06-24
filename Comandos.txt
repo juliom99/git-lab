@@ -1,0 +1,11 @@
+1. create a repository
+2. git init
+3. gist status
+4. create a file with touch (test.txt)
+5. git add test.txt(move to staging area)
+7. git commit -m "Message"
+8. git log(history of commit)
+9. git checkout "hash"(check previuos file)
+10. git branch <new-name>
+10. git checkout master(to move to master branch)(puedes mover a otro branch y hacer cambios sin       afectar el file original en otro branch)
+11. git merge <branch-name>(correr este comando en el branch que quieres hacer merge)
